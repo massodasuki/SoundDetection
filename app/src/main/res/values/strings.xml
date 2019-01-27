@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Sound Detection</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string name="record">RECORD</string>
+    <string name="save">SAVE</string>
+    <string name="analyze">ANALYZE</string>
+    <string name="exit">RESET</string>
+
+
+    <string name="dB">0 dB</string>
+    <string name="score">SCORE (No. of alphabet/breath)</string>
+    <string name="avrSpeech">Average Speech Rate (syll/s)</string>
+    <string name="speDuration">Average Speech Duration (s)</string>
+    <string name="date">Date/Time</string>
+    <string name="setting">Update</string>
+
+
+    <string name="txtHumanDecibel">Human Voice Decibel (Range)</string>
+    <string name="txtMinHumanDecibel">Min</string>
+    <string name="txtMaxHumanDecibel">Max</string>
+    <string name="edtminHumanDB">00.00</string>
+    <string name="edtmaxHumanDB">00.00</string>
+    <string name="btnUpdate">SAVE</string>
+
+    <string name="email">Compose Email</string>
+
+    <string name="instructText">Welcome, please determine minimum and maximum decibel (range) first before use .</string>
+
+
+
+
+
+</resources>
