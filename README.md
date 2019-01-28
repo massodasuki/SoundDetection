@@ -1,6 +1,8 @@
 # Sound Detection
 
 
+# Class Diagram
+
 ![Alt text](https://user-images.githubusercontent.com/17770615/51823969-f4d1f380-231b-11e9-8537-461b65eea7fa.png?raw=true "Main")
 
 
